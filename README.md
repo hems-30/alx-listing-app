@@ -42,14 +42,13 @@ The goal is to create a scalable, maintainable, and reusable codebase for buildi
    git clone <your-repo-url>
    cd alx-listing-app
 2. Install dependencies:
-
-bash
-npm install
+   bash
+   npm install
 3. Run the development server:
-bash
-npm run dev
+   bash
+   npm run dev
 4. Open your browser and navigate to:
-arduino
-http://localhost:3000
+   arduino
+   http://localhost:3000
 
 You should see the Next.js default welcome page or your app running without errors.
